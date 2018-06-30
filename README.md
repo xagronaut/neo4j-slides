@@ -5,6 +5,8 @@ Presentation slides from Neo4j graph databases talks by Jeffrey A. Miller
 
 # Talk: Graph to Greatness
 
+![](GraphToGreatnessCover.png)
+
 ## Abstract
 Graph databases are changing the NoSQL database landscape in startling new ways. Fraud detection, impact analysis, and recommendation systems are only a few examples of real-world applications made possible with graph technology.
 
